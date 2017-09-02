@@ -1,39 +1,39 @@
 {
   "basics": {
-    "name": "Richard Hendriks",
+    "name": "Piyush Raj",
     "label": "Programmer",
     "picture": "https://avatars0.githubusercontent.com/u/5800726?v=4&s=460",
-    "email": "richard.hendriks@gmail.com",
-    "phone": "(912) 555-4321",
-    "website": "https://richardhendricks.com",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "email": "piyushraj.4680@gmail.com",
+    "phone": "shh.... Don't want to be spammed :)",
+    "website": "https://wait.com",
+    "summary": "Mad kid that thinks uniquely, and wants to learn EVERYTHiNG.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "127.0.0.1",
+      "postalCode": "IN 800020",
+      "city": "Patna",
+      "countryCode": "IN",
+      "region": "Bihar"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "neutralthoughts",
-        "url": "http://www.twitter.com/something"
+        "username": "0x48piraj",
+        "url": "http://www.twitter.com/0x48piraj"
       },
       {
-        "network": "SoundCloud",
-        "username": "dandymusicnl",
-        "url": "https://soundcloud.com/dandymusicnl"
+        "network": "LinkedIn",
+        "username": "0x48piraj",
+        "url": "https://www.linkedin.com/in/0x48piraj/"
       },
       {
         "network": "GitHub",
-        "username": "bbody",
-        "url": "https://github.com/bbody/"
+        "username": "0x48piraj",
+        "url": "https://github.com/0x48piraj/"
       },
       {
-        "network": "Resume",
-        "username": "",
-        "url": "http://en.wikipedia.org/wiki/R%C3%A9sum%C3%A9"
+        "network": "Quora",
+        "username": "Piyush Raj",
+        "url": "https://www.quora.com/profile/Piyush-Raj-180"
       }
     ]
   },
