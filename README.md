@@ -1,2 +1,2 @@
 # Geeky-Resume
-"I'm a geek!" Resume !
+**"I'm a geek!"** *Resume !*
